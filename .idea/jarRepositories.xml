@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="apixio.thirdparty.build" />
+      <option name="name" value="apixio.thirdparty.build" />
+      <option name="url" value="https://repos.apixio.com/artifactory/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apixio.thirdpartysnapshot.build" />
+      <option name="name" value="apixio.thirdpartysnapshot.build" />
+      <option name="url" value="https://repos.apixio.com/artifactory/thirdpartysnapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apixio.snapshots.build" />
+      <option name="name" value="apixio.snapshots.build" />
+      <option name="url" value="https://repos.apixio.com/artifactory/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apixio.releases.build" />
+      <option name="name" value="apixio.releases.build" />
+      <option name="url" value="https://repos.apixio.com/artifactory/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apixio.public.build" />
+      <option name="name" value="apixio.public.build" />
+      <option name="url" value="https://repos.apixio.com/artifactory/public/" />
+    </remote-repository>
+  </component>
+</project>
